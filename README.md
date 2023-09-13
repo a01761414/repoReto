@@ -1,3 +1,2 @@
-Hola mundo
-
-Este es un nuevo repositorio
+# TC1002S_semanaTec
+Semana Tec TC1002S: Herramientas computacionales
